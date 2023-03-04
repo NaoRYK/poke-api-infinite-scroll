@@ -34,6 +34,7 @@ section {
 }
 
 .poke {
+
   background: #f4c507;
   padding: 2rem;
   display: flex;
@@ -47,6 +48,7 @@ section {
 }
 
 .poke h2 {
+  
   font-size: 1.3rem;
   margin-top: 0.4rem;
   color: #181818;
@@ -236,4 +238,8 @@ section {
     -webkit-transform: translate(0);
     transform: translate(0);
   }
+
+  
 }
+
+
